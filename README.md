@@ -21,7 +21,7 @@ To get started with the Employee Management System project, follow these steps:
 1. **Clone the repository**: Use the following command to clone the repository to your local machine:
 
    ```
-   git clone https://github.com/urssanjaysingh/Employee-Management-System.git
+   git clone https://github.com/richmis/HRM-WEB-APP.git
    ```
 
 2. **Install the tabulate module**: The project uses the tabulate module to print tabular data in nicely formatted tables. Make sure to install the tabulate module using pip:

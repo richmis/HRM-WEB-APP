@@ -1,6 +1,6 @@
-# Employee Management System Python Project - urssanjaysingh/Employee-Management-System
+# Employee Management System Python Project - Richa Mishra/Employee-Management-System
 
-Welcome to the GitHub repository for the Employee Management System Python project - urssanjaysingh/Employee-Management-System!
+Welcome to the GitHub repository for the Employee Management System Python project - Richa Mishra/Employee-Management-System!
 
 ## Overview
 
@@ -11,7 +11,6 @@ This repository contains the source code and related files for the Employee Mana
 The project includes the following files:
 
 - **`EMS.py`**: The Python source code file containing the application logic and user interface.
-- **`Password.txt`**: A file containing password information for the application.
 - **`README.md`**: The readme file providing information about the project (this file).
 - **`employees.csv`**: A CSV file containing employee records for the application.
 
@@ -48,10 +47,10 @@ The Employee Management System project includes the following features:
 
 ## Contributing
 
-urssanjaysingh welcomes contributions to this project! If you find a bug, have an idea for an enhancement, or want to add new features, feel free to open an issue or submit a pull request. Make sure to follow the project's code style and guidelines.
+Richa Mishra welcomes contributions to this project! If you find a bug, have an idea for an enhancement, or want to add new features, feel free to open an issue or submit a pull request. Make sure to follow the project's code style and guidelines.
 
 ## Contact
 
-If you have any questions or need further assistance, you can reach out to urssanjaysingh via email at sanjaysingh26112000@gmail.com.
+If you have any questions or need further assistance, you can reach out to urssanjaysingh via email at richa77mishra@gmail.com.
 
 Thank you for visiting this repository, and enjoy managing employees with the Employee Management System!
